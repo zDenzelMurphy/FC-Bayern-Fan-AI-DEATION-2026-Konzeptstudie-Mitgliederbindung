@@ -14,6 +14,6 @@ Der gewählte Ansatz setzt auf langfristige Mitgliederbindung, klare Spielregeln
   
   Eingereichtes Konzeptdeck inkl. Quellen- und Strukturübersicht.
 
-  PDF-Version:
+  PDF-Version: Beyond-Membership.pdf
   
-  PPTX-Version:
+  PPTX-Version: Beyond-Membership.pptx
